@@ -1,0 +1,19 @@
+{
+  "name": "junkdrawer",
+  "version": "1.0.0",
+  "description": "junk drawer repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffkillberg/junkdrawer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffkillberg/junkdrawer/issues"
+  },
+  "homepage": "https://github.com/jeffkillberg/junkdrawer#readme"
+}
